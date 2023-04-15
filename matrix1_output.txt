@@ -1,0 +1,2 @@
+n= 4
+ the trace of the matrix is   19.0000000    
